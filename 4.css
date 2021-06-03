@@ -1,0 +1,15 @@
+.hello{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 100px;
+    
+    padding: 100px;
+    
+    
+   
+}
+body{
+    
+    background-image:url("iitg(4).jpeg");
+    background-size: cover;
+}

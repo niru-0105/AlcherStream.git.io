@@ -1,0 +1,24 @@
+
+p{
+    font-size: 20px;
+    color: blueviolet;
+
+}
+
+h1{
+    color: sienna;
+    font-size: 38px;
+}
+h2{
+    color: red;
+    font-size: 30px;
+}
+#pictures_type{
+    width: 100;
+    top: 100;
+}
+#About{
+    width: 100%;
+    top: 100;
+
+}

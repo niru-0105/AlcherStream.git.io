@@ -1,0 +1,29 @@
+#hello p{
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+    margin-bottom: 40px;
+    
+}
+#bye p{
+    color: yellowgreen;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 14px;
+    margin: ;
+    
+}
+p:hover{
+    background-color: tomato;
+}
+a{
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: blue;
+    background-color: aquamarine;
+    text-decoration: underline;
+}
